@@ -1,0 +1,10 @@
+1. Rules for how users get/send data to a server
+2. Address for something on the internet
+3. Domain name system. Converts URLs into IP addresses 
+4. Allows your to pass key-value pairs into the URL
+5. GET - gets data from server. POST - sends data to server
+6. Request from client to server that follows HTTP protocol
+7. Response from server to client that follows HTTP protocol 
+8. Headers provide info about the request/repsonse. Request headers: hostname, date, language, cookies. 
+    Response header: content type, date/time, cookies. 
+9. Browser translates your URL into an IP address using DNS. Then makes a request to that IP address. That IP address sends a response. Browser receives it and populates page. 
